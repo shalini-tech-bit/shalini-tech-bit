@@ -358,5 +358,3 @@ Learn → Build → Break → Secure
 ⭐ **Thanks for visiting my profile!** ⭐
 
 </div>
-```
-
