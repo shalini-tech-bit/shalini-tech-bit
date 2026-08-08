@@ -10,12 +10,6 @@
 
 `🕵️ Investigate` • `🔐 Secure` • `🤖 Automate` • `⚔️ Defend`
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shalini-tech-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalinidhiman0121@gmail.com)
-
 </div>
 
 ---
@@ -91,8 +85,6 @@ I'm a **Cybersecurity student** focused on building practical security solutions
 
 # 🌱 Currently Learning
 
-<div align="center">
-
 | 🤖 AI & Development | 🛡️ Cybersecurity |
 |:---|:---|
 | LLMs & RAG | Web Application Security |
@@ -101,8 +93,6 @@ I'm a **Cybersecurity student** focused on building practical security solutions
 | AI Security | OSINT |
 | Python Automation | SOC & Threat Detection |
 | Security Tool Development | Cloud Security |
-
-</div>
 
 ---
 
@@ -173,11 +163,11 @@ Learn → Build → Break → Understand → Secure
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -195,19 +185,7 @@ Learn → Build → Break → Understand → Secure
 🚀 Real-World Security Tools
 ```
 
-> **My goal is to move from learning cybersecurity to building practical security products that solve real-world problems.**
-
----
-
-# 📌 Projects
-
-🚧 **Building in Public**
-
-I'm currently working toward a portfolio of practical projects across:
-
-`AI Security` • `Digital Forensics` • `VAPT` • `OSINT` • `Security Automation`
-
-> 🚀 Real projects will be added here as they are completed and polished.
+> **My goal is to move from learning cybersecurity to building practical security solutions that solve real-world problems.**
 
 ---
 
@@ -215,11 +193,7 @@ I'm currently working toward a portfolio of practical projects across:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shalini-tech-bit)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shalini-dhiman-5b9529282/)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shalinidhiman0121@gmail.com)
+**🐙 GitHub** • **💼 LinkedIn** • **📧 Email**
 
 </div>
 
@@ -231,6 +205,7 @@ I'm currently working toward a portfolio of practical projects across:
 
 **Turning curiosity into cybersecurity skills.**
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ **Thanks for visiting my profile!** ⭐
 
 </div>
+Aur haan — **ForenX AI tabhi profile mein project ke form mein aayega jab tum uska repo genuinely complete karogi.** Usse pehle README mein uska naam bhi nahi chahiye. That's the cleaner approach.
