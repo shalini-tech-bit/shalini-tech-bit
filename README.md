@@ -140,12 +140,6 @@ ForenX AI combines **Artificial Intelligence + Digital Forensics** to support in
 | ⛓️ Chain of Custody           | Track evidence handling              |
 | 📊 Investigation Dashboard    | Centralized investigation workspace  |
 
-**Built with:** `Python` `AI` `Digital Forensics` `Streamlit`
-
-### 🔗 Project
-
-👉 [**View ForenX AI on GitHub**](https://github.com/shahi0121/forenx-ai)
-
 ---
 
 # 🧪 My Cyber Lab
