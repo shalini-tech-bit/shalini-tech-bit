@@ -259,19 +259,17 @@ Learn → Build → Break → Understand → Secure
 
 <div align="center">
 
-![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalini-tech-bit\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)
+![Shalini's GitHub Stats](https://github-readme-stats.shion.dev/api?username=shalini-tech-bit&show_icons=true&theme=tokyonight&hide_border=true)
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shalini-tech-bit\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=shalini-tech-bit&layout=compact&theme=tokyonight&hide_border=true)
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shalini-tech-bit\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=shalini-tech-bit&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 # 🐍 Contribution Graph
 
