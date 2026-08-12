@@ -151,13 +151,6 @@ Learn → Build → Break → Understand → Secure
 
 ![Shalini's GitHub Stats](https://github-readme-stats.shion.dev/api?username=shalini-tech-bit\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)
 
-<br>
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=shalini-tech-bit\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-<br>
-
-
 </div>
 
 ---
