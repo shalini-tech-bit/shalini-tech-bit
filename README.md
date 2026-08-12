@@ -157,7 +157,6 @@ Learn → Build → Break → Understand → Secure
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shalini-tech-bit\&theme=tokyonight\&hide_border=true)
 
 </div>
 
